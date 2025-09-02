@@ -1,3 +1,7 @@
 Lista de integrantes:
 Guillermo Carrillo 
+<<<<<<< HEAD
 German Barron : editado por memo
+=======
+German Barron : german editó
+>>>>>>> 62ab651 (edit integrantes de la rama feature)
